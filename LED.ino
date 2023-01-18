@@ -1,7 +1,4 @@
 #include <string.h>
-// color swirl! connect an RGB LED to the PWM pins as indicated
-// in the #defines
-// public domain, enjoy!
 #define REDPIN 5
 #define GREENPIN 6
 #define BLUEPIN 3
